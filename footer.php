@@ -39,7 +39,7 @@
 
         	$.notify({
             	icon: 'pe-7s-gift',
-            	message: "Welcome to <b>Hillsofts</b> Traffic Offence System."
+            	message: "Welcome to <b>Hillsofts</b> TRAFFIC VIOLATION MANAGEMENT SYSTEM FOR TRAFFIC MANAGEMENT UNIT OF KABACAN"
 
             },{
                 type: 'info',

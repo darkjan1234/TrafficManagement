@@ -93,6 +93,7 @@ if($position=='officer') {
                         <p>Edit Profile</p>
                     </a>
                 </li>
+
            
 			 </ul>
 <?php

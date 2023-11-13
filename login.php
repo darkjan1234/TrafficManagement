@@ -3,7 +3,7 @@ include"connect.php";
 ?>
 
 <!--A Design by Hillsofts
-Author: Awolu Faith | +2348138652645
+Author: Nimer | +2348138652645
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
@@ -74,7 +74,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
 									<p>&copy;2018 <?php echo $row['site_name']; ?> | Design by 
-										<a href="http://www.lykup.com/Torrahclef" target="_blank">Awolu Faith</a>
+										<a href="http://www.lykup.com/Torrahclef" target="_blank">nimer</a>
 									</p>
 	<?php } ?>
 								</div>
